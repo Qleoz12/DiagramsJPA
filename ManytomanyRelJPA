@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2020-01-07T01:31:06.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="S6eGqGgclm8IzXz8t-zL" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-07T01:32:15.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="or6ExE8NGJyzqvM1HChG" version="12.4.9" type="github">
   <diagram id="OkYKJZJMoG3z9GjPAXgy" name="Page-1">
     <mxGraphModel dx="1040" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="cIF3ZobWUVfdraODry4z-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="cIF3ZobWUVfdraODry4z-3" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="200" width="200" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="cIF3ZobWUVfdraODry4z-1" value="id_perfil_Entidad_logueada,&lt;br&gt;id_perfil_Entidad_Seleccionada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cIF3ZobWUVfdraODry4z-3">
@@ -13,22 +13,22 @@
         <mxCell id="cIF3ZobWUVfdraODry4z-2" value="Rules" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cIF3ZobWUVfdraODry4z-3">
           <mxGeometry x="66.66666666666667" width="66.66666666666667" height="33.33333333333333" as="geometry"/>
         </mxCell>
-        <mxCell id="cIF3ZobWUVfdraODry4z-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="40" width="120" height="90" as="geometry"/>
-        </mxCell>
-        <mxCell id="cIF3ZobWUVfdraODry4z-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cIF3ZobWUVfdraODry4z-4">
-          <mxGeometry y="30" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="cIF3ZobWUVfdraODry4z-6" value="Rules" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cIF3ZobWUVfdraODry4z-4">
-          <mxGeometry x="40" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="cIF3ZobWUVfdraODry4z-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="200" width="200" height="150" as="geometry"/>
+        <mxCell id="cIF3ZobWUVfdraODry4z-7" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="313" y="190" width="200" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="cIF3ZobWUVfdraODry4z-8" value="id_perfil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cIF3ZobWUVfdraODry4z-7">
           <mxGeometry y="50" width="200.00000000000003" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="cIF3ZobWUVfdraODry4z-9" value="perfil" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cIF3ZobWUVfdraODry4z-7">
+          <mxGeometry x="66.66666666666667" width="66.66666666666667" height="33.33333333333333" as="geometry"/>
+        </mxCell>
+        <mxCell id="cIF3ZobWUVfdraODry4z-10" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="390" width="200" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="cIF3ZobWUVfdraODry4z-11" value="id_perfil,&lt;br&gt;id_entidad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cIF3ZobWUVfdraODry4z-10">
+          <mxGeometry y="50" width="200.00000000000003" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="cIF3ZobWUVfdraODry4z-12" value="perfil_entidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cIF3ZobWUVfdraODry4z-10">
           <mxGeometry x="66.66666666666667" width="66.66666666666667" height="33.33333333333333" as="geometry"/>
         </mxCell>
       </root>
