@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-09T21:38:39.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="LaZuILCguF0AnnCBPB6v" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-09T21:39:01.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="l4d-7hd9TZnFaRBb__nl" version="12.5.1" type="github">
   <diagram id="NHfsi1unnNj1JB6y6svj" name="Page-1">
     <mxGraphModel dx="1350" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="5agC9p6MAGemAYDK5FoP-1" value="entidadPadre" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="30" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="5agC9p6MAGemAYDK5FoP-5" value="Adm que creo" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="400" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="5agC9p6MAGemAYDK5FoP-7" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
