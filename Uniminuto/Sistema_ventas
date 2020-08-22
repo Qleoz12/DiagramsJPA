@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-22T16:33:29.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="_RGQ7vcgNTG-k6E9Hw5Q" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-22T16:33:46.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NDTH77Dt_AQv62s5VSqO" version="13.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -166,6 +166,9 @@
         <mxCell id="KetULVlyq7LgJ2RCR41j-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="KetULVlyq7LgJ2RCR41j-16" target="KetULVlyq7LgJ2RCR41j-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KetULVlyq7LgJ2RCR41j-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="KetULVlyq7LgJ2RCR41j-16" target="KetULVlyq7LgJ2RCR41j-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KetULVlyq7LgJ2RCR41j-16" value="cliente" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="270" width="250" height="160" as="geometry" />
         </mxCell>
@@ -219,6 +222,9 @@
         </mxCell>
         <mxCell id="KetULVlyq7LgJ2RCR41j-107" value="tiene" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1290" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KetULVlyq7LgJ2RCR41j-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="KetULVlyq7LgJ2RCR41j-112" target="KetULVlyq7LgJ2RCR41j-93">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KetULVlyq7LgJ2RCR41j-112" value="registra" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="80" height="80" as="geometry" />
