@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-22T16:32:00.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="iMSgfzWI2ddonLSjt4FZ" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-22T16:32:14.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="3d2dzAWbFEPhoGutsd9Q" version="13.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -244,7 +244,7 @@
         <mxCell id="KetULVlyq7LgJ2RCR41j-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="KetULVlyq7LgJ2RCR41j-106" target="KetULVlyq7LgJ2RCR41j-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KetULVlyq7LgJ2RCR41j-106" value="tienen" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KetULVlyq7LgJ2RCR41j-106" value="tiene" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="490" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KetULVlyq7LgJ2RCR41j-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="KetULVlyq7LgJ2RCR41j-107" target="KetULVlyq7LgJ2RCR41j-51">
@@ -253,7 +253,7 @@
         <mxCell id="KetULVlyq7LgJ2RCR41j-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="KetULVlyq7LgJ2RCR41j-107" target="C-vyLk0tnHw3VtMMgP7b-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KetULVlyq7LgJ2RCR41j-107" value="tienen" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KetULVlyq7LgJ2RCR41j-107" value="tiene" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1290" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
