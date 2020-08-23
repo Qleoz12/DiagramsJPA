@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T16:58:58.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Hs-jenY-5ITK88aq9hO2" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T16:59:15.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="mUzTiFWFP_8s4llVKVXw" version="13.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2844" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -104,7 +104,7 @@
           <mxGeometry x="870" y="390" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a3dAK1jGhCEB8J7eCaM7-37" value="Problema 7: Torneo de Tenis Grand Slam" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" width="760" height="160" as="geometry" />
+          <mxGeometry width="760" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-59" value="modalidades" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="170" width="250" height="90" as="geometry" />
