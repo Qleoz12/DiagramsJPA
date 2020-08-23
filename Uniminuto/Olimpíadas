@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T15:09:38.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="gfGHNRBV9hKSU-Y9XRhL" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T15:09:46.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kXzkG7SP6RhY96WbYltv" version="13.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="cE0djMgFx5lHli7dhgL6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cE0djMgFx5lHli7dhgL6-1" target="TzEAqtCELM0XVwILB0om-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cE0djMgFx5lHli7dhgL6-1" value="para polideportivo,mse desigan areas" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cE0djMgFx5lHli7dhgL6-1" value="para polideportivo,se desigan areas" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="650" y="270" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
