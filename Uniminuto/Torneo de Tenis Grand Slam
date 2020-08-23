@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T16:22:19.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="T9Oa1FI2ofEseY-_A8Ew" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T16:25:23.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Wsjq-BwzVRzbZal-I8bY" version="13.6.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -112,27 +112,6 @@
         <mxCell id="ZooISmHst_LYQYZUcQDb-48" value="nombre" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-46">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-52" value="premios" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="460" width="250" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-53" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-52">
-          <mxGeometry y="30" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-54" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-53">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-55" value="id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-53">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-52">
-          <mxGeometry y="60" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-57" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-56">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-58" value="nombre" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-56">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="C-vyLk0tnHw3VtMMgP7b-23" target="ZooISmHst_LYQYZUcQDb-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -195,6 +174,66 @@
         </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="ZooISmHst_LYQYZUcQDb-60" target="ZooISmHst_LYQYZUcQDb-95">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="ZooISmHst_LYQYZUcQDb-98" target="ZooISmHst_LYQYZUcQDb-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="ZooISmHst_LYQYZUcQDb-98" target="ZooISmHst_LYQYZUcQDb-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-98" value="fases" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="360" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-99" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-98">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-100" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-99">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-101" value="id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-99">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-102" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-98">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-103" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-102">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-104" value="nombre" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-102">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-105" value="se dividen" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="830" y="200" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="ZooISmHst_LYQYZUcQDb-92" target="ZooISmHst_LYQYZUcQDb-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-108" value="puede tener" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="965" y="490" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" edge="1" parent="1" source="ZooISmHst_LYQYZUcQDb-52" target="ZooISmHst_LYQYZUcQDb-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-52" value="premios" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="660" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-53" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-52">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-54" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-53">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-55" value="id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-53">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-56" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-52">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-57" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-56">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-58" value="nombre" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="ZooISmHst_LYQYZUcQDb-56">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
