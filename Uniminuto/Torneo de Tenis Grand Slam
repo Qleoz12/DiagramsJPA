@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T01:25:16.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="eOYXtU9NldqPVKnUkE3g" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T01:26:02.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="o2yiinE2gIuruo4lxdwC" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1312" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,14 +112,18 @@
         <mxCell id="a3dAK1jGhCEB8J7eCaM7-2" value="entran" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1425" y="555" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="a3dAK1jGhCEB8J7eCaM7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="ZooISmHst_LYQYZUcQDb-74" target="a3dAK1jGhCEB8J7eCaM7-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a3dAK1jGhCEB8J7eCaM7-3" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=20;" parent="1" source="ZooISmHst_LYQYZUcQDb-74" target="a3dAK1jGhCEB8J7eCaM7-2" edge="1">
+          <mxGeometry x="0.9487" y="-155" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="a3dAK1jGhCEB8J7eCaM7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="a3dAK1jGhCEB8J7eCaM7-4" target="a3dAK1jGhCEB8J7eCaM7-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a3dAK1jGhCEB8J7eCaM7-11" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="a3dAK1jGhCEB8J7eCaM7-4" target="a3dAK1jGhCEB8J7eCaM7-2" edge="1">
+          <mxGeometry x="1" y="-175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a3dAK1jGhCEB8J7eCaM7-12" value="entrenadores por torneo" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1590" y="700" width="160" height="120" as="geometry" />
+          <mxGeometry x="1650" y="710" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a3dAK1jGhCEB8J7eCaM7-35" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=20;" parent="1" source="a3dAK1jGhCEB8J7eCaM7-33" target="ZooISmHst_LYQYZUcQDb-39" edge="1">
           <mxGeometry x="0.7419" y="25" relative="1" as="geometry">
