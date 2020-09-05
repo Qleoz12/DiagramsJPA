@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T02:11:49.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hhH-QVOQ2ZuaUGq16Dfd" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T02:12:27.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="r7eYJXRlLM15AvNL5QcN" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1422" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,11 +29,15 @@
         <mxCell id="cE0djMgFx5lHli7dhgL6-1" value="para polideportivo,se desigan areas" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1050" y="30" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="cE0djMgFx5lHli7dhgL6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="cE0djMgFx5lHli7dhgL6-17" target="cE0djMgFx5lHli7dhgL6-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cE0djMgFx5lHli7dhgL6-30" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="cE0djMgFx5lHli7dhgL6-17" target="cE0djMgFx5lHli7dhgL6-4" edge="1">
+          <mxGeometry x="0.7714" y="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cE0djMgFx5lHli7dhgL6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="cE0djMgFx5lHli7dhgL6-17" target="TzEAqtCELM0XVwILB0om-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cE0djMgFx5lHli7dhgL6-31" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="cE0djMgFx5lHli7dhgL6-17" target="TzEAqtCELM0XVwILB0om-6" edge="1">
+          <mxGeometry x="0.2" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cE0djMgFx5lHli7dhgL6-17" value="tiene" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;direction=south;" parent="1" vertex="1">
           <mxGeometry x="270" y="410" width="80" height="80" as="geometry" />
@@ -359,8 +363,8 @@
           <mxGeometry x="1215" y="280" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="cE0djMgFx5lHli7dhgL6-141" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="cE0djMgFx5lHli7dhgL6-39" target="cE0djMgFx5lHli7dhgL6-140" edge="1">
-          <mxGeometry x="0.6205" y="26" relative="1" as="geometry">
-            <mxPoint x="-7" y="1" as="offset" />
+          <mxGeometry x="-0.6207" y="13" relative="1" as="geometry">
+            <mxPoint x="13" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4J0Pr8Wy8y80FNPjH_yR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4J0Pr8Wy8y80FNPjH_yR-1" target="cE0djMgFx5lHli7dhgL6-140">
