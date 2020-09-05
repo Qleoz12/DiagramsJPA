@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T00:29:50.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ojkP_bosjTjrAlKi4W4q" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T00:30:09.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ONFqdTQ2E6y2s-IC8qNd" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="761" dy="374" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,13 +343,16 @@
         <mxCell id="1ht57dXhkmvcaz4gU88X-3" value="desembarco?" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1ht57dXhkmvcaz4gU88X-1">
           <mxGeometry x="30" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aPTTd4r7smySUcsdbkWB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aPTTd4r7smySUcsdbkWB-15" target="5c25WK_3-WUqLhw7ku6_-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="aPTTd4r7smySUcsdbkWB-16" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="aPTTd4r7smySUcsdbkWB-15" target="5c25WK_3-WUqLhw7ku6_-23" edge="1">
+          <mxGeometry x="0.5111" y="10" relative="1" as="geometry">
             <mxPoint x="1160" y="710" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPTTd4r7smySUcsdbkWB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aPTTd4r7smySUcsdbkWB-15" target="aPTTd4r7smySUcsdbkWB-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aPTTd4r7smySUcsdbkWB-17" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aPTTd4r7smySUcsdbkWB-15" target="aPTTd4r7smySUcsdbkWB-1" edge="1">
+          <mxGeometry x="0.7647" y="-20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aPTTd4r7smySUcsdbkWB-15" value="Compran" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="520" width="80" height="80" as="geometry" />
