@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T01:26:08.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="hSWkcHteWDWRf7yaKEzX" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T01:31:35.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="rqM7GGNHyrltqgXHu-WC" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="981" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-86" value="tiene" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1155" y="615" width="80" height="80" as="geometry" />
+          <mxGeometry x="1055" y="625" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-90" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;endArrow=none;endFill=0;" parent="1" source="ZooISmHst_LYQYZUcQDb-42" target="ZooISmHst_LYQYZUcQDb-89" edge="1">
           <mxGeometry x="0.2308" y="21" relative="1" as="geometry">
@@ -85,8 +85,10 @@
         <mxCell id="ZooISmHst_LYQYZUcQDb-137" value="arbitros por torneo" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="150" y="695" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="ZooISmHst_LYQYZUcQDb-73" target="ZooISmHst_LYQYZUcQDb-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZooISmHst_LYQYZUcQDb-142" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="ZooISmHst_LYQYZUcQDb-73" target="ZooISmHst_LYQYZUcQDb-86" edge="1">
+          <mxGeometry x="-0.0692" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-141" value="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=20;" parent="1" source="ZooISmHst_LYQYZUcQDb-139" target="ZooISmHst_LYQYZUcQDb-73" edge="1">
           <mxGeometry x="0.8366" y="25" relative="1" as="geometry">
@@ -282,36 +284,6 @@
         <mxCell id="ZooISmHst_LYQYZUcQDb-79" value="nombre" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-77" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-66" value="jugadores_nacionalidades" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="740" width="250" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-67" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZooISmHst_LYQYZUcQDb-66" vertex="1">
-          <mxGeometry y="30" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-68" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="ZooISmHst_LYQYZUcQDb-67" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-69" value="id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-67" vertex="1">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-70" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZooISmHst_LYQYZUcQDb-66" vertex="1">
-          <mxGeometry y="60" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-71" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="ZooISmHst_LYQYZUcQDb-70" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-72" value="jugador" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-70" vertex="1">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-80" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZooISmHst_LYQYZUcQDb-66" vertex="1">
-          <mxGeometry y="90" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-81" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="ZooISmHst_LYQYZUcQDb-80" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZooISmHst_LYQYZUcQDb-82" value="nacionalidad" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-80" vertex="1">
-          <mxGeometry x="30" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZooISmHst_LYQYZUcQDb-52" value="premios" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="1720" y="540" width="250" height="120" as="geometry" />
         </mxCell>
@@ -392,6 +364,75 @@
         </mxCell>
         <mxCell id="a3dAK1jGhCEB8J7eCaM7-10" value="nombre" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="a3dAK1jGhCEB8J7eCaM7-8" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-66" value="jugadores_nacionalidades" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="930" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-67" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZooISmHst_LYQYZUcQDb-66" vertex="1">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-68" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="ZooISmHst_LYQYZUcQDb-67" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-69" value="id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-67" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-70" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZooISmHst_LYQYZUcQDb-66" vertex="1">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-71" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="ZooISmHst_LYQYZUcQDb-70" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-72" value="jugador" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-70" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-80" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="ZooISmHst_LYQYZUcQDb-66" vertex="1">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-81" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="ZooISmHst_LYQYZUcQDb-80" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZooISmHst_LYQYZUcQDb-82" value="nacionalidad" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="ZooISmHst_LYQYZUcQDb-80" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="wbKirlmZD5o0iixkg-kW-1" target="wbKirlmZD5o0iixkg-kW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-1" value="tiene" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-2" value="nacionalidad" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="950" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-3" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-2">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-4" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-3">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-5" value="id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-3">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-2">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-7" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-6">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-8" value="jugador" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-6">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-9" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-2">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-10" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-9">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-11" value="nacionalidad" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="wbKirlmZD5o0iixkg-kW-9">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wbKirlmZD5o0iixkg-kW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="ZooISmHst_LYQYZUcQDb-70" target="wbKirlmZD5o0iixkg-kW-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
