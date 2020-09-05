@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T12:28:29.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="aM_8oTG711qK8491Xph6" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T12:29:04.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="tiJ6lzY0TLM2DGu1GQ2-" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -263,7 +263,7 @@
           <mxGeometry x="220" y="990" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WihNDYBiJxgmTRhCvMrQ-57" value="aviones" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="360" width="250" height="90" as="geometry" />
+          <mxGeometry x="930" y="360" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WihNDYBiJxgmTRhCvMrQ-58" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="WihNDYBiJxgmTRhCvMrQ-57" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -281,6 +281,15 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WihNDYBiJxgmTRhCvMrQ-63" value="capacidad" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="WihNDYBiJxgmTRhCvMrQ-61" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrKNb22yFYkUcosCnfav-18" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="WihNDYBiJxgmTRhCvMrQ-57">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrKNb22yFYkUcosCnfav-19" value="FK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="KrKNb22yFYkUcosCnfav-18">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KrKNb22yFYkUcosCnfav-20" value="IdAvion_modelo" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="KrKNb22yFYkUcosCnfav-18">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WihNDYBiJxgmTRhCvMrQ-1" value="avion_modelo" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
