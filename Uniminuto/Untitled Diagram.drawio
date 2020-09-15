@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T04:26:01.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="8Egpy3qmg9Uu8VLcFVqs" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T04:27:44.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="pGwCF2IixIxeKBnY4hA3" version="13.6.10" type="github">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
-    <mxGraphModel dx="867" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,14 +31,8 @@
         <mxCell id="7c3a617817c5cf35-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="874" y="595" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;La&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;capa de aplicación&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;&amp;nbsp;define las aplicaciones de red y los servicios de Internet estándar que puede utilizar un usuario. Estos servicios utilizan la capa de transporte para enviar y recibir datos. Existen varios protocolos de capa de aplicación.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="640" width="203" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="SA_Dz9ttJfZPXBpqKCWs-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="674" y="595" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-3" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;La&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;capa de transporte&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;&amp;nbsp;TCP/IP garantiza que los paquetes lleguen en secuencia y sin errores, al intercambiar la confirmación de la recepción de los datos y retransmitir los paquetes perdidos. Este tipo de comunicación se conoce como&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;transmisión de punto a punto&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;.&lt;/span&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="640" width="210" height="270" as="geometry" />
         </mxCell>
         <mxCell id="SA_Dz9ttJfZPXBpqKCWs-4" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La &lt;b&gt;capa de vínculo de datos&lt;/b&gt; identifica el tipo de protocolo de&lt;br/&gt;red del paquete, en este caso TCP/IP. La capa de vínculo de datos proporciona&lt;br/&gt;también control de errores y estructuras. Algunos ejemplos de protocolos de&lt;br/&gt;capa de vínculo de datos son las estructuras Ethernet IEEE 802.2 y Protocolo&lt;br/&gt;punto a punto (PPP).&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="261.5" y="625" width="177" height="315" as="geometry" />
@@ -99,6 +93,12 @@
             <mxPoint x="300" y="479.9957142857142" as="sourcePoint" />
             <mxPoint x="220" y="505.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-22" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La capa de transporte TCP/IP garantiza que los paquetes lleguen&lt;br/&gt;en secuencia y sin errores, al intercambiar la confirmación de la recepción de&lt;br/&gt;los datos y retransmitir los paquetes perdidos. Este tipo de comunicación se&lt;br/&gt;conoce como transmisión de punto a punto.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="625" width="196" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-23" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-size: 12.0pt ; line-height: 107% ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La&amp;nbsp;&lt;/span&gt;&lt;b&gt;capa de aplicación&lt;/b&gt;&amp;nbsp;define las aplicaciones de red y los servicios de Internet estándar&lt;br/&gt;que puede utilizar un usuario. Estos servicios utilizan la capa de transporte&lt;br/&gt;para enviar y recibir datos. Existen varios protocolos de capa de aplicación.&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="620" width="196" height="265" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
