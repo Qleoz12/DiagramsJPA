@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T04:19:32.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="jXSSy2l1rLd3-27R0CHc" version="13.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-15T04:26:01.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="8Egpy3qmg9Uu8VLcFVqs" version="13.6.10" type="github">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
-    <mxGraphModel dx="1040" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7c3a617817c5cf35-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="73" y="595" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7c3a617817c5cf35-4" value="2017" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="93" y="445" width="120" height="110" as="geometry" />
+        <mxCell id="7c3a617817c5cf35-4" value="&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;Capa de red física&lt;/span&gt;&lt;/p&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#60a917;strokeColor=#2D7600;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="93" y="426" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7c3a617817c5cf35-7" value="&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;Capa de vínculo de datos&lt;/span&gt;&lt;/p&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="7c3a617817c5cf35-7" value="&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Capa de vínculo de datos&lt;/span&gt;&lt;/p&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;strokeColor=#d79b00;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;fillColor=#006600;" parent="1" vertex="1">
           <mxGeometry x="295" y="396" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7c3a617817c5cf35-8" value="Capa Internet" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#AE4132;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
@@ -40,14 +40,65 @@
         <mxCell id="SA_Dz9ttJfZPXBpqKCWs-3" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;La&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;capa de transporte&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;&amp;nbsp;TCP/IP garantiza que los paquetes lleguen en secuencia y sin errores, al intercambiar la confirmación de la recepción de los datos y retransmitir los paquetes perdidos. Este tipo de comunicación se conoce como&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;transmisión de punto a punto&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;.&lt;/span&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="640" width="210" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-4" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La &lt;b&gt;capa de Internet&lt;/b&gt;, también conocida como capa de red o capa&lt;br&gt;IP, acepta y transfiere paquetes para la red. Esta capa incluye el potente&lt;br&gt;Protocolo de Internet (IP), el protocolo de resolución de direcciones (ARP) y&lt;br&gt;el protocolo de mensajes de control de Internet (ICMP).&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="261.5" y="625" width="177" height="265" as="geometry" />
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-4" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La &lt;b&gt;capa de vínculo de datos&lt;/b&gt; identifica el tipo de protocolo de&lt;br/&gt;red del paquete, en este caso TCP/IP. La capa de vínculo de datos proporciona&lt;br/&gt;también control de errores y estructuras. Algunos ejemplos de protocolos de&lt;br/&gt;capa de vínculo de datos son las estructuras Ethernet IEEE 802.2 y Protocolo&lt;br/&gt;punto a punto (PPP).&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="625" width="177" height="315" as="geometry" />
         </mxCell>
         <mxCell id="SA_Dz9ttJfZPXBpqKCWs-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="595" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SA_Dz9ttJfZPXBpqKCWs-7" value="Capas TCP/IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="203" y="110" width="700" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-10" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La capa de &lt;b&gt;red física&lt;/b&gt; especifica las características del&lt;br/&gt;hardware que se utilizará para la red. Por ejemplo, la capa de red física&lt;br/&gt;especifica las características físicas del medio de comunicaciones. La capa&lt;br/&gt;física de TCP/IP describe los estándares de hardware como IEEE 802.3, la&lt;br/&gt;especificación del medio de red Ethernet, y RS-232, la especificación para los&lt;br/&gt;conectores estándar.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="64.5" y="625" width="177" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-13" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="7c3a617817c5cf35-4" target="7c3a617817c5cf35-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="410" as="sourcePoint" />
+            <mxPoint x="320" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-14" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="470" as="sourcePoint" />
+            <mxPoint x="571.9999999999998" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-15" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="385" as="sourcePoint" />
+            <mxPoint x="791.9999999999998" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-16" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="961.9999999999998" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-18" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0;entryDx=120;entryDy=140;entryPerimeter=0;" edge="1" parent="1" source="7c3a617817c5cf35-10" target="7c3a617817c5cf35-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="400" as="sourcePoint" />
+            <mxPoint x="840" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-19" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0;entryDx=120;entryDy=140;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="693" y="447.14571428571423" as="sourcePoint" />
+            <mxPoint x="613" y="472.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-20" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0;entryDx=120;entryDy=111.19054891038608;entryPerimeter=0;" edge="1" parent="1" target="7c3a617817c5cf35-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="479.9957142857142" as="sourcePoint" />
+            <mxPoint x="420" y="505.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-21" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=20;fontColor=#FF8000;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0;entryDx=120;entryDy=81.19054891038608;entryPerimeter=0;" edge="1" parent="1" target="7c3a617817c5cf35-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="479.9957142857142" as="sourcePoint" />
+            <mxPoint x="220" y="505.71" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
