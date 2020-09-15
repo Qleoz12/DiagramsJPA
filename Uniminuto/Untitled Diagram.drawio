@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-09-15T04:11:23.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="TRYGGDmfo7u2SSMOK-oY" version="13.6.10" type="github"><diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">7ZpNc6M4EIZ/DcdxIYkvHx0nmRxmq6YqWzNnGWRQjUAsiNiZX79qkGywnFof4olTCwdbaoluoec1qIU9si73XxtaF3/JjAkP+9neI/cexijwE/0FltfBEi2XgyFveGY6HQ3P/DczRt9YO56xdtJRSSkUr6fGVFYVS9XERptG7qbdtlJMo9Y0Z47hOaXCtf7kmSqMFfn+seGJ8bwwoZPQNGxo+itvZFeZeB4m2/4YmktqfZn+bUEzuRuZyINH1o2UaiiV+zUTMLd22obzHt9oPYy7YZW65IQ4JTRCcYLiNEy3JPyCosHFCxUds9fQj1S92tkpVCl0CXnk7jB+X1cy2hYsMxUqeF7pcqpHwhpteGGN4nqKV6ah5FkGHsFHDZ7LfQ5qWgwA8fANbkFE/iKCIigs6GPxRoPnEjxVsoFpvaukSgsTvlWN/HWAp+f1bsuFWEshm/4iyLo/wC4rZRSIAlMf9fP74+DRtlSygrG7820QwNWy/chk5v8rkyVTzavuYlpjMpxhfirhMhzqu5HwIiOXYqQ5a6NG6/nB85G3LhjkF+IPHPrYR7GjAMvyG90w8V223JDYSKVkeQa2krW2ToUzgc6rrexLPF2AqFi27jYww7yVqyrvA6PQxYj8mCwf3sIDLB9pyQVM7hMTLwxGNYWOz6rV1c87oF5OUQfBGdT4DGqErsE6Psc6uWHWj3oC0Wdh7cBGl8IOrgE7OQd7ecOwVw8BIviTwA5OYJPoUtjLa8BenoF9WHHcImxM9L3w/pPAjk5g4zhYLMfHZehxcg309kkxZY9umD3Cq9Vd+EnYJyfsUTJln0SXwSfxVeAjB76HI6EAnG6Kcig9MZrxKrcNOsixzRpra/gmG1ZCyLrt4Dvr6WglcQWD10P28HpIxFq9Hmeqg1YdoOYtT/swPhPc9Gp1dgA+wMi7tpRQVayse5+8SnnGs64C1x18CLrR8aG3srFZn0XlFYUwgv/T0cXoSurjhZzoXfNVJ/qtaT9Ach8ea3+Dyu+/9IraFVyxZ20HFzutbG2TWipb0Wc8hc5fWPWfqYbRsf5lZJwdM4uRvMfJh6Pid9CsXdPZXDx0n004/mMLEYRnjc4adVbLdnVsn6n+x4qUzCKdReqs8m3CdCN3UnezZhbp/16kyY2JNJxFOovUSaHRyab3x2rU3RxzYM3vPN7znUcQB1P+H/rSA7n7ZTP/q/JPboo/dvfMZv5v898KXv8wc/EeqV88Tf2Ivcd/jBbObaHNWvhDWohOXoajK94XdPX4P4u+bfRnFvLwLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-15T04:19:32.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="jXSSy2l1rLd3-27R0CHc" version="13.6.10" type="github">
+  <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
+    <mxGraphModel dx="1040" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7c3a617817c5cf35-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="73" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-4" value="2017" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="93" y="445" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-7" value="&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;Capa de vínculo de datos&lt;/span&gt;&lt;/p&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="295" y="396" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-8" value="Capa Internet" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#AE4132;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="493" y="365" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-9" value="Capa de trasnporte" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#23445D;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="693" y="274.9999999999999" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-10" value="capa Aplicación" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#12AAB5;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="893" y="184.99999999999986" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-13" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La &lt;b&gt;capa de Internet&lt;/b&gt;, también conocida como capa de red o capa&lt;br&gt;IP, acepta y transfiere paquetes para la red. Esta capa incluye el potente&lt;br&gt;Protocolo de Internet (IP), el protocolo de resolución de direcciones (ARP) y&lt;br&gt;el protocolo de mensajes de control de Internet (ICMP).&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="455" y="625" width="196" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="474" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="874" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;La&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;capa de aplicación&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;&amp;nbsp;define las aplicaciones de red y los servicios de Internet estándar que puede utilizar un usuario. Estos servicios utilizan la capa de transporte para enviar y recibir datos. Existen varios protocolos de capa de aplicación.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="203" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="674" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-3" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;La&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;capa de transporte&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;&amp;nbsp;TCP/IP garantiza que los paquetes lleguen en secuencia y sin errores, al intercambiar la confirmación de la recepción de los datos y retransmitir los paquetes perdidos. Este tipo de comunicación se conoce como&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;transmisión de punto a punto&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium&quot;&gt;.&lt;/span&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-4" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;background: white&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; color: #373a3c&quot;&gt;La &lt;b&gt;capa de Internet&lt;/b&gt;, también conocida como capa de red o capa&lt;br&gt;IP, acepta y transfiere paquetes para la red. Esta capa incluye el potente&lt;br&gt;Protocolo de Internet (IP), el protocolo de resolución de direcciones (ARP) y&lt;br&gt;el protocolo de mensajes de control de Internet (ICMP).&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="261.5" y="625" width="177" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SA_Dz9ttJfZPXBpqKCWs-7" value="Capas TCP/IP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="203" y="110" width="700" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
