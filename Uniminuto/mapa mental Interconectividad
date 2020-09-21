@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T00:21:30.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="-2flbc7X5WYOcKsVvMeW" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T00:24:06.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="UXdCewRtACaRZxBLaxGw" version="13.7.3" type="github">
   <diagram id="EkhR2-BXOaHOdU6b5WuR" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-1" value="Red de area Local,LAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-2" target="0Ltusgo_2TRbZoD4b6TP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-2" value="Red de Area Amplia,WAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.275;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-3" target="0Ltusgo_2TRbZoD4b6TP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-3" value="Red de area Metropolitana,Man" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-4" target="0Ltusgo_2TRbZoD4b6TP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-4" value="Redes de Area de Almacenamiento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-5" target="0Ltusgo_2TRbZoD4b6TP-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,37 +35,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-5" value="terminologia de Redes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="135" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-6" target="0Ltusgo_2TRbZoD4b6TP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-6" value="Centros de Datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-7" value="capacidad /Tamaño" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="110" width="130" height="150" as="geometry" />
+          <mxGeometry x="530" y="120" width="130" height="150" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-8" value="Proposito" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="400" width="140" height="140" as="geometry" />
+          <mxGeometry x="525" y="410" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-15" target="0Ltusgo_2TRbZoD4b6TP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-15" value="Intranets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-16" target="0Ltusgo_2TRbZoD4b6TP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-16" value="Extranets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-17" target="0Ltusgo_2TRbZoD4b6TP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-17" value="Redes privadas Virtuales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-23" target="0Ltusgo_2TRbZoD4b6TP-5">
           <mxGeometry relative="1" as="geometry" />
@@ -135,6 +135,30 @@
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-42" value="Comite de Concultoria internacional para la telefonia, ITU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1980" y="940" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-48" target="0Ltusgo_2TRbZoD4b6TP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-48" value="provee tecnologias" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-110" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-49" target="0Ltusgo_2TRbZoD4b6TP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-49" value="ethernet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-50" target="0Ltusgo_2TRbZoD4b6TP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-50" value="token Ring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-51" target="0Ltusgo_2TRbZoD4b6TP-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-51" value="FDDI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
