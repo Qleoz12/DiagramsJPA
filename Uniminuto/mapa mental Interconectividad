@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T23:57:20.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="MqzMWJyoIkb2nu4z_Yn_" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T00:21:30.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="-2flbc7X5WYOcKsVvMeW" version="13.7.3" type="github">
   <diagram id="EkhR2-BXOaHOdU6b5WuR" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,75 @@
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-17" value="Redes privadas Virtuales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-23" target="0Ltusgo_2TRbZoD4b6TP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-23" target="0Ltusgo_2TRbZoD4b6TP-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-23" target="0Ltusgo_2TRbZoD4b6TP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-23" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Fundamentos de las Redes&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="180" width="495" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-25" value="mejoras a lo largo del tiempo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="307.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-27" value="Transitor semiconductor,1947" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-28" value="Circuitos integrados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-29" value="mainFrames" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-30" value="Entidades / comites" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="605" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-31" target="0Ltusgo_2TRbZoD4b6TP-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-31" value="protocolos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1147.5" y="610" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-33" target="0Ltusgo_2TRbZoD4b6TP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-33" value="regidos" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="605" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-38" target="0Ltusgo_2TRbZoD4b6TP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-38" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 34) ; font-family: sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;Instituto de Ingeniería Eléctrica y Electrónica,&amp;nbsp;&lt;/span&gt;IEEE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="470" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-39" target="0Ltusgo_2TRbZoD4b6TP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-39" value="Instituto Nacional Americano de Normalización,ANSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="580" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-40" target="0Ltusgo_2TRbZoD4b6TP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-40" value="Asociación de Industrua de las telecomunicaciones, TIA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="700" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-41" target="0Ltusgo_2TRbZoD4b6TP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-41" value="Asociación de Industrias Electronicas,EIA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="820" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-42" target="0Ltusgo_2TRbZoD4b6TP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-42" value="Comite de Concultoria internacional para la telefonia, ITU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="940" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
