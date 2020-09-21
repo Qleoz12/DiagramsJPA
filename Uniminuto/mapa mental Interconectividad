@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T00:24:06.096Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="UXdCewRtACaRZxBLaxGw" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T00:31:09.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="WlpfuVRtF-AaxudySpd5" version="13.7.3" type="github">
   <diagram id="EkhR2-BXOaHOdU6b5WuR" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,36 @@
         </mxCell>
         <mxCell id="0Ltusgo_2TRbZoD4b6TP-51" value="FDDI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-56" target="0Ltusgo_2TRbZoD4b6TP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-56" value="provee tecnologias" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-57" target="0Ltusgo_2TRbZoD4b6TP-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-57" value="RDSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-58" target="0Ltusgo_2TRbZoD4b6TP-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-58" value="DSL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-59" target="0Ltusgo_2TRbZoD4b6TP-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-59" value="FrameRelay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Ltusgo_2TRbZoD4b6TP-60" target="0Ltusgo_2TRbZoD4b6TP-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Ltusgo_2TRbZoD4b6TP-60" value="Series de portadoras T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
